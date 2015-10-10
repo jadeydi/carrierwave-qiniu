@@ -1,5 +1,6 @@
 # encoding: utf-8
 require 'carrierwave'
+require "carrierwave-qiniu/version"
 require 'qiniu'
 require 'qiniu/http'
 
